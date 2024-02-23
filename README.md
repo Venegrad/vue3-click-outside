@@ -24,6 +24,11 @@ export default {
   directives: {
     outside
   },
+  methods: {
+    hide() {
+      this.open = false
+    }
+  }
 }
 </script>
 ```
