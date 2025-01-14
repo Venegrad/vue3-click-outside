@@ -60,6 +60,6 @@ export default defineNuxtPlugin(async (nuxtApp) => {
 
 
 ## Help links: 
-- If my solution was helpful to you, please give me a star on [Github](https://github.com/Venegrad/vue3-autocomplete) or get my day better with: 
+- If my solution was helpful to you, please give me a star on [Github](https://github.com/Venegrad/vue3-click-outside) or get my day better with: 
 - USDT TRC20: `TKXybH3YoFvT5h8bQFLdkDBtiXA65y7xaB`
 - USDT ERC20: `0xc3efeB4825E350eE5D6B032Aa1dE144B09B5bB0D`

@@ -1,6 +1,6 @@
 {
   "name": "@venegrad/vue3-click-outside",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Vue click outside directive for vue3 and nuxt3",
   "author": "venegrad <venegrad@gmail.com> (https://venegrad.com/)",
   "license": "MIT",
